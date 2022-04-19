@@ -64,8 +64,6 @@
   margin-left: 70px;
 }
 
-/*  */
-
 .tolqin__frontend {
   width: 100%;
   height: 540px;
@@ -119,7 +117,6 @@
   margin-top: 57px;
   margin-left: 81px;
 }
-/*  */
 
 .student {
   width: 991px;
@@ -137,6 +134,7 @@
   margin-bottom: 15px;
   margin-left: 46px;
 }
+
 .student__h3 {
   font-size: 20px;
   line-height: 30px;
@@ -192,6 +190,3 @@ body{
   --pop: "Poppins";
 }
 
-.muhammad{
-
-}
